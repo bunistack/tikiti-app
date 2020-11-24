@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/config.json</file>
+        <file>qml/Main.qml</file>
+        <file>assets/images/logos/tikiti-logo.png</file>
+        <file>qml/components/SplashScreen.qml</file>
+        <file>qml/singletons/AppUtil.qml</file>
+        <file>assets/fonts/Nunito-Regular.ttf</file>
+        <file>assets/images/icons/airplane_take_off.png</file>
+        <file>qml/models/NavigationModel.qml</file>
+        <file>qml/controls/ColoredImage.qml</file>
+        <file>assets/images/icons/boarding-pass.png</file>
+        <file>assets/images/icons/user.png</file>
+        <file>qml/controls/FelgoPage.qml</file>
+        <file>qml/pages/Tickets.qml</file>
+        <file>qml/controls/ShadowedRectangle.qml</file>
+        <file>qml/controls/CustomScrollView.qml</file>
+        <file>qml/components/TicketListCard.qml</file>
+        <file>assets/images/clipart/ticket.png</file>
+        <file>assets/images/icons/qr_code.png</file>
+        <file>qml/models/TicketsModel.qml</file>
+        <file>assets/images/icons/airplane.png</file>
+        <file>assets/images/icons/airplane_landing.png</file>
+        <file>assets/images/icons/trash.png</file>
+        <file>assets/images/icons/new_ticket.png</file>
+        <file>qml/components/AddTicket.qml</file>
+        <file>qml/controls/ComboBoxStyle4.qml</file>
+        <file>qml/controls/DateTimeDisplay.qml</file>
+        <file>qml/controls/DateTimePicker.qml</file>
+        <file>qml/controls/MaterialButton.qml</file>
+        <file>assets/images/icons/double_left_grey.png</file>
+        <file>assets/images/icons/double_right_grey.png</file>
+        <file>assets/images/icons/left_grey.png</file>
+        <file>assets/images/icons/right_grey.png</file>
+        <file>assets/images/icons/moon_grey.png</file>
+        <file>assets/images/icons/sun_grey.png</file>
+    </qresource>
+</RCC>
